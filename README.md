@@ -1,6 +1,4 @@
-# Master-s_graduation_projectkjkjk
-#Online_Shopping_Recommendation_System_With_Apriori
-
+# Online_Shopping_Recommendation_Systeem_with_Apriori
 
 Birliktelik Kurallarına Dayalı Tavsiye Sistemleri
 İş Problemi : Sepet aşamasındaki kullanıcılara ürün önerisinde bulunmak
