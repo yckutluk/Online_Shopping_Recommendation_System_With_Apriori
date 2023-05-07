@@ -1,4 +1,4 @@
-# Online_shopping_recommendation_system_with_apriori
+
 Birliktelik Kurallarına Dayalı Tavsiye Sistemleri
 İş Problemi : Sepet aşamasındaki kullanıcılara ürün önerisinde bulunmak
 Bir online kullanıcı sepetine ürün eklediğinde ürünü almadan önce kullacılara ne önerebiliriz?
