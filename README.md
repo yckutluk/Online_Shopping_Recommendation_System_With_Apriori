@@ -19,7 +19,7 @@ Desciption : Ürün ismi
 Quantity : Ürün adedi 
 Faturalardaki ürünün kaçar tane satıldığını ifade etmektedir
 
-İnvoice Date : Fatura Tarihi
+Invoice Date : Fatura Tarihi
 
 UnitPrice: Fatura Fiyatı (sterlin)
 
