@@ -1,6 +1,6 @@
 # Online Shopping Recommendation Systeem with Apriori
 <p align="center">
-  <img src="https://i.pinimg.com/564x/8d/ed/aa/8dedaaac770c7a4a7ba1a614267695ac.jpg" alt="Resim Açıklaması" />
+  <img src="https://i.pinimg.com/564x/8d/ed/aa/8dedaaac770c7a4a7ba1a614267695ac.jpg" alt="Resim Açıklaması" width="800" height="600" />
 </p>
 
 
