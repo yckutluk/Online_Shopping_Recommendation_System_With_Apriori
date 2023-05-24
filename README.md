@@ -1,5 +1,6 @@
 # Online Shopping Recommendation Systeem with Apriori
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=419397784062228682" height="629" width="345" frameborder="0" scrolling="no" ></iframe>
+![Resim Açıklaması](https://i.pinimg.com/originals/41/93/97/419397784062228682.jpg)
+
 
 
 Proje: Birliktelik Kurallarına Dayalı Tavsiye Sistemleri 
