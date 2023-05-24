@@ -1,5 +1,6 @@
 # Online Shopping Recommendation Systeem with Apriori
-![Resim Açıklaması](https://i.pinimg.com/564x/40/63/bd/4063bdfed876875ba88f31bae6005880.jpg)
+![Resim Açıklaması](https://i.pinimg.com/564x/8e/89/2f/8e892f84b13aa20045c32c2ce24b5198.jpg)
+
 
 
 
