@@ -1,5 +1,5 @@
 # Online Shopping Recommendation Systeem with Apriori
-![Resim Açıklaması](https://i.pinimg.com/originals/41/93/97/419397784062228682.jpg)
+![Resim Açıklaması]([https://i.pinimg.com/originals/41/93/97/419397784062228682.jpg](https://media.istockphoto.com/id/913317182/tr/vektör/alışveriş-kız-renkli-alışveriş-torbaları-kadınla-satış-ve-alışveriş-kavramı-vektör-çizim-eps.jpg?s=1024x1024&w=is&k=20&c=1FxLacJ-u_hBoiDBTDMrhqREJeOdPklvQKEIHHqtxh4=))
 
 
 
