@@ -17,6 +17,7 @@ Veri seti : Online Retail II isimli İngiltere merkezli online satış mağazas�
 Bu şirketin ürün kataloğunda hediyelik eşyalar yer almaktadır.
 
 Veri setindeki değişkemler 
+
 Invoice no : Fatura numarası
 (Eğer bu kod C ile başlıyorsa işlemin iptal edildiğini ifade eder)
 
