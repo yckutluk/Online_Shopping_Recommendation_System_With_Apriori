@@ -10,6 +10,7 @@
 Proje: Birliktelik Kurallarına Dayalı Tavsiye Sistemleri 
 
 İş Problemi : Sepet aşamasındaki kullanıcılara ürün önerisinde bulunmak
+
 Bir online kullanıcı sepetine ürün eklediğinde ürünü almadan önce kullacılara ne önerebiliriz?
 
 Veri seti : Online Retail II isimli İngiltere merkezli online satış mağazasının 
